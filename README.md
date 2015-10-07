@@ -1,0 +1,3 @@
+# privatehelper
+
+Kleine Helfer und Gedankenstützen für mich :-) Gerne dürft Ihr Sie auch verwenden...
